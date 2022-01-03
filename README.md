@@ -6,11 +6,6 @@
 src="https://komarev.com/ghpvc/?username=morrisonwill&label=Profile%20views&color=0e75b6&style=flat"
  alt="morrisonwill" /> </p>
 
-<p align="left"> <a
- href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=morrisonwill" 
-alt="morrisonwill" /></a> </p>
-
 - I’m working on [Eagle Monitor](https://github.com/MorrisonWill/EagleMonitor)
 
 - I'm learning **Svelte front-end development**
