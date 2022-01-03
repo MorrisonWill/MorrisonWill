@@ -1,4 +1,4 @@
-<h1 align="center">I'm Will Morrison</h1>
+<h1 align="center">Will Morrison</h1>
 <h3 align="center">An aspiring software developer and first year Computer Science major at Boston College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morrisonwill&label=Profile%20views&color=0e75b6&style=flat" alt="morrisonwill" /> </p>
