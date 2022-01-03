@@ -24,8 +24,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
  align="left">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
          
-        <a href="https://www.djangoproject.com/" target="_blank" 
-rel="noreferrer">
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
           <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
  alt="django" width="40" height="40"/>
