@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morrisonwill&label=Profile%20views&color=0e75b6&style=flat" alt="morrisonwill" /> </p>
 
-- I’m working on [Eagle Monitor](https://github.com/MorrisonWill/EagleMonitor)
+- I’m working on [Eagle Monitor](https://github.com/MorrisonWill/EagleMonitor) (repository currently private but will be public soon)
 
 - I'm learning **Svelte front-end development**
 
