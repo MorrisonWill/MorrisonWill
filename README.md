@@ -5,7 +5,7 @@
 
 - I’m working on a crypto payment processor that has not been named yet
 
-- I'm learning how bitcoin and monero work in-depth
+- I'm learning how Bitcoin and Monero work in-depth
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
