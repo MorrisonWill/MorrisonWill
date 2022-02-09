@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morrisonwill&label=Profile%20views&color=0e75b6&style=flat" alt="morrisonwill" /> </p>
 
-- I’m working on a crypto payment processor that has not been named yet
+- I’m working on a crypto payment processor called PayMint
 
 - I'm learning how Bitcoin and Monero work in-depth
 
