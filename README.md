@@ -5,7 +5,7 @@
 
 - I’m working on a crypto payment processor called PayMint
 
-- I'm learning how about Bitcoin and Monero internals
+- I'm learning about Bitcoin and Monero internals
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
