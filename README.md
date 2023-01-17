@@ -1,7 +1,7 @@
 <h1 align="center">Will Morrison</h1>
 <h3 align="center">A software developer and Computer Science major at Boston College</h3>
 
-- I’m working on a crypto payment processor called Paymint
+- I’m working on a crypto payment processor called Paymint (https://paymint.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
